@@ -1,6 +1,9 @@
-torch==1.7.0
-torchvision==0.5.0
-opencv-python==4.2.0.32
+torch==1.7.1
+torchvision>=0.5.0
+opencv-python>=4.2.0.32
 pickle-mixin
 Pillow>=7.0.0
 
+
+numpy~=1.23.3
+matplotlib~=3.6.1
